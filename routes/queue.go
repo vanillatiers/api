@@ -2,7 +2,7 @@ package routes
 
 import (
 	"fmt"
-	"slices"
+	"golang.org/x/exp/slices"
 
 	"github.com/angelnext/tasks/database"
 	"github.com/angelnext/tasks/models"
