@@ -4,7 +4,7 @@ go 1.18
 
 require github.com/gofiber/fiber/v2 v2.50.0
 
-require gorm.io/gorm v1.25.5
+require gorm.io/gorm v1.25.11
 
 require (
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9
@@ -26,4 +26,5 @@ require (
 	github.com/valyala/fasthttp v1.50.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 )
