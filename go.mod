@@ -4,11 +4,11 @@ go 1.18
 
 require github.com/gofiber/fiber/v2 v2.50.0
 
-require gorm.io/gorm v1.25.5
+require gorm.io/gorm v1.25.7
 
 require (
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9
-	gorm.io/driver/mysql v1.5.2
+	gorm.io/driver/mysql v1.5.7
 )
 
 require (
